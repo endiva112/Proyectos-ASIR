@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tanuki</string>
+    <string name="accessibility_service_description">APK de apoyo para Tanuki, extrae el árbol XML de la UI actual</string>
+</resources>

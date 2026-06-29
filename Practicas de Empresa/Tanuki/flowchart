@@ -1,0 +1,12 @@
+digraph {
+	A [label=Inicio]
+	B [label="¿Condición?"]
+	C [label="Proceso 1"]
+	D [label="Proceso 2"]
+	E [label=Fin]
+	A -> B
+	B -> C [label="Sí"]
+	B -> D [label=No]
+	C -> E
+	D -> E
+}
