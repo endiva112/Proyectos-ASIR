@@ -1,0 +1,8 @@
+   # Comentario general
+
+  Bienvenidos al curso
+#Notas
+   Tarea 1: leer archivo
+   Tarea 2:   limpiar
+    # pendiente
+Resultado final
